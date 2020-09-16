@@ -1,0 +1,129 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.firstdiv{
+    background-color: #EFEFEF;
+    width: 100%;
+    height: 60px;
+}
+
+.firstdiv h1{
+    padding: 10px;
+    padding-top: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 28px
+}
+
+.seconddiv{
+    background-color: white;
+    height: 80px;
+    width: 100%;
+}
+
+.seconddiv p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    margin-left: 40px;
+    margin-top: 25px;
+    color: #DB4437;
+}
+
+
+.button input{
+    display: flex;
+    flex-direction: column;
+    width: 40%;
+    height: 30px;
+    margin-left: 230px;
+    margin-top: 20px;
+    padding-left: 10px;
+    outline: none;
+    border: 1px solid lightgray;
+    
+}
+
+.button{
+    margin-top: -195px;
+}
+.button :hover{
+    border-color: #4285F4;
+}
+
+
+.firstwords p{
+    margin-left: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    margin-top: 30px;
+}
+
+.secondwords p{
+    display: flex;
+    margin-left: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    margin-top: 30px;
+    padding: 1px;
+}
+
+#submit_button{
+    border-radius: 6px;
+    margin: 10px;
+    padding:2px;
+    width: 130px;
+    height: 35px;
+    background-color: #4285F4;
+    color: white;
+    align-items: center;
+    justify-content: center;
+    margin-left: 48%;
+
+}
+
+.secondwords{
+    float:right;
+    margin-right:10%;
+    margin-top: -240px;
+}
+
+#foo{
+    float:right;
+    margin-right: 26%;
+    margin-top: -10px;
+    color: grey;
+    font-size: 18px;
+}
+
+.g{
+    color: #4285F4;
+}
+.oe{
+    color: #DB4437;
+}
+.o{
+    color: #F4B400;
+}
+.l{
+    color: #0F9D58;
+}
+
+.thirdv{
+    height: 60px;
+}
+.thirdv{
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    margin-left: 40px;
+    font-size: 20px;
+}
+
+#search_content{
+    text-decoration: none;
+    float: right;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    margin-top: 5px;
+    margin-right: 10px;
+    color: #4285F4;
+}
