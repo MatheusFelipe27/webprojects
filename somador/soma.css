@@ -1,0 +1,37 @@
+body{
+    margin: auto;
+    background-color: lightgray;
+}
+
+section{
+    width: 400px;
+    height: auto;
+    margin: auto;
+    background-color: white;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+header{
+    text-align: center;
+    padding: 10px;
+    color: black;
+}
+
+footer{
+    text-align: center;
+    color: black;
+}
+
+div p input{
+    border-radius: 5px;
+    outline: none;
+    padding: 4px;
+    margin: 3px;
+}
+
+div #sub{
+    padding: 5px;
+    width: 100px;
+    margin-bottom: 35px;
+}

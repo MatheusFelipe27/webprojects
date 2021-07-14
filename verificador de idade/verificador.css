@@ -1,0 +1,47 @@
+header{
+    text-align: center;
+    color: white;
+    font-size: 32px;
+    padding: 10px;
+}
+section{
+    width: 500px;
+    height: auto;
+    margin: auto;
+    background-color: white;
+    border-radius: 10px;
+}
+
+body{
+    background-color: gray;
+}
+
+footer{
+    text-align: center;
+    color: white;
+    font-size: 20px;
+}
+
+section div{
+    margin: 12px;
+    padding: 3px;
+}
+
+div #inp{
+   border-radius: 5px; 
+   outline: none;
+}
+
+div #inp2{
+    border-radius: 5px; 
+    outline: none;
+    padding: 7px;
+ }
+
+ #foto{
+     height: 250px;
+     width: 250px;
+     border-radius: 50%;
+     margin-right: 10%;
+     margin: 8px;
+ }
